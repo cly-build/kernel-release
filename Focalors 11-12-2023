@@ -1,0 +1,18 @@
+Changelogs 
+upstream kernel version ke 4.14.332
+fix zram usage untuk beberapa custom rom
+patch kernel untuk support android U (14)
+mempercepat device untuk memasuki mode deepsleep dengan cara membatasi masa aktif aplikasi yang berjalan di latar belakang
+semua varian baik R dan S vendor sudah terupdate ke versi terbaru dari rilisan linux 4.14.332
+intregrasi kernelsu suport versi terbaru untuk kedua variant
+dan masih banyak yang saya lupa "check commit history ygy jangan malas wkwk"
+
+terimakasih kepada:
+zain kernel mtk
+lineage kernel 20
+lineage kernel 21
+silonT kernel dev
+dan teman teman yang dengan kesadaran penuh menawarkan dirinya untuk menjadi tester kali ini
+
+akhir kata :
+stay happy dan jangan lupa mandi xD

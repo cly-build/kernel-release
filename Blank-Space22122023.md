@@ -7,7 +7,7 @@ Rad-Kernel 1.6
 3. yaudah sih itu doang, orang aku males nulis 🦫
 4. ya yang pastinya yang R vendor juga ikut
 
-# Isu yang di ketahui di versi sebelumnya
+# Isu yang di ketahui di versi sebelumnya 🕵️
 1. Perangkat mendadak freze saat di biarkan idle terlalu lama (miui user report)
 2. Beberapa user mengalami random reboot ketika suhu perangkat terlalu tinggi "emang usernya yang anomali main hape sampe 55+ buat apa su🗿"
 

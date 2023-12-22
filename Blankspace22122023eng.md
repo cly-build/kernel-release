@@ -16,7 +16,7 @@
 1. God Almighty
 2. SilonT Kernel Dev
 3. Lineage 20-21 & Zain mtk for kernel source
-4. And to all the authors of the code in this cherry-pick "it's like an official event awoakok"
+4. And to all the authors of the code in this cherry-pick
 
 # A little extra 🥶
 Being the best is not about how people perceive you but it's about how you relate to your god XD

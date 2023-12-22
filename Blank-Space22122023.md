@@ -1,5 +1,5 @@
 # Blank-Space 22-12-2023
-Rad-Kernel 1.5
+Rad-Kernel 1.6
 
 # Changelogs 👾
 1. mengganti default kompresi zram ke zstd dari yang sebelumnya 

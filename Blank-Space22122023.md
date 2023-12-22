@@ -16,7 +16,7 @@
 1. Tuhan yang maha esa
 2. SilonT Kernel Dev
 3. Lineage 20-21 & Zain mtk untuk source kernel
-4. Dan kepada seluruh author dari code yang ada di cherry-pick kali ini "udah macam acara resmi aja awoakok"
+4. Dan kepada seluruh author dari code yang ada di cherry-pick kali ini
 
 # Anu tambahan dikit 🥶
 Menjadi yang terbaik bukanlah tentang bagaimana pandangan orang terhadapmu namun ini adalah tentang bagaimana hubunganmu dengan tuhan mu XD
